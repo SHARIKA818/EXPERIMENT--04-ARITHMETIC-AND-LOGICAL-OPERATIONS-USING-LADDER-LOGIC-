@@ -2,7 +2,7 @@
 #  NAME: SHARIKA R
 # REGISTER NUMBER: 212223230204
 # DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
-# DATE: 
+# DATE: 24/08/2026
 ## Aim:
 To understand and implement various arithmetic and logical operations in Programmable Logic Controller (PLC) ladder logic.
 
